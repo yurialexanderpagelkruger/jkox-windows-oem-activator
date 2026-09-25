@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="jkox/jkox.vcxproj" Id="ba0cc3c1-9cc0-41dc-8254-2d2618466f0d" />
+</Solution>
