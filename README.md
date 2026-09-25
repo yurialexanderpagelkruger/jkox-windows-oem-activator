@@ -8,8 +8,6 @@ Featuring a direct, guided workflow, the application inspects the motherboard fo
 
 ![jkox](screenshot.png)
 
-*Terminal main menu featuring themed ASCII art, pixel-art candles, and a cyan and fire-yellow color palette.*
-
 ## ✨ Key Features
 
 * **Native Firmware Reading:** Direct access to the BIOS/UEFI ACPI `MSDM` table via low-level native API calls (`GetSystemFirmwareTable`), eliminating slow intermediaries and PowerShell dependencies.
