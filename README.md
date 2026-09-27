@@ -54,9 +54,9 @@ From the console menu, *JKOX* provides the following operations:
 
 2. Double-click to launch it.
 
-3. *Note:* The application will automatically prompt for **Administrator (UAC)** privileges, as the Windows Software Licensing Management Tool (`slmgr`) requires elevated rights to register keys.
+*Note:* The application will automatically prompt for **Administrator (UAC)** privileges, as the Windows Software Licensing Management Tool (`slmgr`) requires elevated rights to register keys.
 
-4. Select your desired option (e.g., `[1]` for automatic OEM activation) and let the tool handle the process.
+3. Select your desired option (e.g., `[1]` for automatic OEM activation) and let the tool handle the process.
 
 ## 👨‍💻 Author
 
