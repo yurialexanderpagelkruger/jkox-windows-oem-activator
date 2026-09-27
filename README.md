@@ -60,4 +60,4 @@ From the console menu, *JKOX* provides the following operations:
 
 ## 👨‍💻 Author
 
-Created by **Yuri Alexander Pagel Krüger**
+Developed by **Yuri Alexander Pagel Krüger**
