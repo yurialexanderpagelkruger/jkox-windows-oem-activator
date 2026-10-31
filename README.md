@@ -6,7 +6,7 @@ Featuring a direct, guided workflow, the application inspects the motherboard fo
 
 ## 📸 Screenshots
 
-![jkox](screenshot.png)
+<img src="screenshot.png" alt="jkox" width="100%">
 
 ## ✨ Key Features
 
